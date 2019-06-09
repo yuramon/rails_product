@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ SomeProduct.average(:age)
+ 
+ SomeProduct.maximum(:age)
 
-Things you may want to cover:
+ SomeProduct.sum(:age)
 
-* Ruby version
+ SomeProduct.minimum(:age)
+ 
+ SomeProduct.where("name = 'Navitech'")
+ 
+ SomeProduct.where("age < 100")
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  
